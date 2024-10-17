@@ -1,0 +1,24 @@
+{
+  "name": "covid-19-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "chart.js": "^2.9.4",
+    "leaflet": "^1.8.0",
+    "next": "12.2.2",
+    "react": "18.2.0",
+    "react-chartjs-2": "^2.11.2",
+    "react-dom": "18.2.0",
+    "react-leaflet": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint": "8.20.0",
+    "eslint-config-next": "12.2.2"
+  }
+}
